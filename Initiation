@@ -1,0 +1,2 @@
+-- YOU GOT THE WRONG LOADSTRING USE THIS ONE INSTEAD
+loadstring(game:HttpGet'https://raw.githubusercontent.com/EconRCO/Econ/refs/heads/main/Init')()
